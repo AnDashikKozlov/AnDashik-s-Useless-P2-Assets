@@ -1,0 +1,9 @@
+LightMappedGeneric
+{
+$basetexture "concrete/concrete_bts_floor002d"
+$surfaceprop default
+$ssbump 1
+$bumpmap "concrete/concrete_bts_floor002d-ssbump"
+"%keywords" "portal2 destruction underground custom"
+"%noportal" 1
+}
